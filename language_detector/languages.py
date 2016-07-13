@@ -6,7 +6,7 @@ LANGUAGES = [
         'common_words': ['el', 'la', 'tu', 'yo', 'nosotros', 'quiero','bueno',
         'gracias','grande','nada','si','por','Espana','hasta','usted','ud',
         'ustedes','nadar','bien','llama','noches','escuela','economia',
-        'de','donde','tiene','entonces']  # add your words here
+        'de','donde','tiene','entonces']
     },
     {
         'name': 'German',
