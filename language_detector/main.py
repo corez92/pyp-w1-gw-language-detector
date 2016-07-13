@@ -4,6 +4,7 @@ def detect_language(text, languages=LANGUAGES):
     """Returns the detected language of given text."""
     text_lang = "Unknown"
     a_list = text.split()
+    
     # For each language, check every word and see if it can be found in the
     # languages.py file, if so add that word to a list.
     # Finally, get the length of each of these lists.
