@@ -1,4 +1,4 @@
-from languages import LANGUAGES
+from .languages import LANGUAGES
 
 def detect_language(text, languages=LANGUAGES):
     """Returns the detected language of given text."""
